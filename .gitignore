@@ -1,0 +1,30 @@
+# Unity-generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Auto-generated files
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.suo
+*.userprefs
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Rider/VSCode project files
+.idea/
+.vscode/
+
+# Crash & log files
+*.stacktrace
+*.log
